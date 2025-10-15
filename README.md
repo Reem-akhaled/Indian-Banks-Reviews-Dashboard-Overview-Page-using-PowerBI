@@ -3,12 +3,10 @@
 _This Power BI dashboard was developed as part of a **group project** analyzing customer feedback and service quality across major Indian banks.  
 The project aimed to uncover sentiment trends, ratings distribution, and engagement insights to help identify key strengths and areas for improvement._
 
----
 
 ### 👩‍💻 My Role
 I was responsible for developing the **Overview Page** of the dashboard and handling the data preparation processes.
 
----
 
 ### 🧩 Key Contributions
 - Performed **data cleaning and transformation** to ensure dataset accuracy and consistency.  
@@ -16,7 +14,6 @@ I was responsible for developing the **Overview Page** of the dashboard and hand
 - Developed **DAX measures** used for KPIs, sentiment analysis, and performance insights.  
 - Designed and implemented the **Overview Page visuals**, including KPI cards, sentiment breakdown, and interactive filters.
 
----
 
 ### 📄 Documentation
 _A detailed summary of my work is available in the_  
@@ -28,7 +25,6 @@ This document describes:
 - The **calculated columns** and **measures** developed  
 - The **design and layout** of the Overview Page
 
----
 
 ### 🛠️ Tools & Skills Used
 - **Power BI** – Dashboard design and interactivity  
@@ -36,7 +32,6 @@ This document describes:
 - **DAX** – KPI and measure development  
 - **Data Visualization & Storytelling** – Presenting insights clearly  
 
----
 
 ### 🌟 Key Features
 - 📈 **KPI Cards:** Display total reviews, average rating, and engagement metrics.  
@@ -45,8 +40,7 @@ This document describes:
 - 🧭 **Interactive Filters:** Enable analysis by city, date, or sentiment category.  
 - 🎯 **Dynamic Visuals:** Tooltips and drill-through options for deeper insights.  
 
----
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Overview](Dashboard Overview.png)
+![Dashboard Overview](Dashboard Overview.PNG)
