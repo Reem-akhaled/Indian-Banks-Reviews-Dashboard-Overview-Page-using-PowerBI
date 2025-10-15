@@ -43,4 +43,4 @@ This document describes:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](Dashboard Overview.PNG)
+![Dashboard Screenshot](Dashboard_Overview.PNG)
